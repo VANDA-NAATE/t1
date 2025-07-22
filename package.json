@@ -1,0 +1,35 @@
+{
+  "name": "mrtoxic-discord-bot",
+  "version": "1.0.0",
+  "description": "Comprehensive Discord moderation and management bot with advanced features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation",
+    "discord.js",
+    "server-management"
+  ],
+  "author": "MrToxic Bot Team",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/mrtoxic-discord-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/mrtoxic-discord-bot/issues"
+  },
+  "homepage": "https://github.com/your-username/mrtoxic-discord-bot#readme"
+}
